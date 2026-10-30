@@ -51,15 +51,15 @@ Press `Ctrl+C` to stop the animation.
 
 ```text
 candle-pytho/
-ÃÄÄ candle.py
-ÃÄÄ tests/
-³   ÀÄÄ test_candle.py
-ÃÄÄ assets/
-ÃÄÄ docs/
-ÃÄÄ .gitignore
-ÃÄÄ LICENSE
-ÃÄÄ README.md
-ÀÄÄ requirements.txt
+|-- candle.py
+|-- tests/
+|   `-- test_candle.py
+|-- assets/
+|-- docs/
+|-- .gitignore
+|-- LICENSE
+|-- README.md
+`-- requirements.txt
 ```
 
 ## Testing
